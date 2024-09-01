@@ -33,6 +33,10 @@ ttf-meslo-nerd
 > 
 > #### After the installation of the dependencies and what you need.
 > Just copy .wallpaper to your home directory and all folder in config_files to your ~/.config
+>
+> #### Some additional steps with polybar (at ~/.config/polybar/config.ini)
+> - use <strong>ip link</strong> to get WLAN name and edit module/network
+> - use <strong>ls -1 /sys/class/powls -1 /sys/class/power_supply/</strong> to get battery and adater name, after that edit the module/battery
 
 ### Reboot, and make changes to your system.
 ### Enjoy
