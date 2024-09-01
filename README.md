@@ -27,7 +27,11 @@ ttf-meslo-nerd
 > #### Optional
 > - fcitx5 fcitx5-qt fcitx5-gtk fcitx5-configtool fcitx5-unikey (if you don't use fcitx5, please remove the <em>exec fcitx5</em> in config)
 > - polkit-kde-agent (I use kde-polkit for authentication)
-> - 
+> 
+> #### After the installation of the dependencies and what you need.
+> Just copy .wallpaper to your home directory and all folder in config_files to your ~/.config
+
+### Reboot, and make any change you want.
 
 # MY REGARDS TO
 1. **parazeeknova** for his dotfile, which inspired me and most resource is borrow from his repos at [link](https://github.com/parazeeknova/dotfiles/tree/main)
