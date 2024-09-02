@@ -19,7 +19,7 @@ Git, vim/nano (any text editor) is compulsory.
 > #### Install yay-git with:
 > git clone https://aur.archlinux.git/yay-git.git && cd yay-git && makepkg -si
 > #### Packages I used, modified as your usage. Install with yay.
-> - i3-wm sddm i3lock-color feh picom dunst polybar rofi thunar thunar-volman tumbler ffmpegthumbnailer file-roller thunar-archive-plugin gvfs gvfs-mtp bluez bluez-utils blueman network-manager-applet flameshot gtk-engine-murrine
+> - i3-wm sddm i3lock-color feh picom dunst polybar rofi thunar thunar-volman tumbler ffmpegthumbnailer file-roller thunar-archive-plugin gvfs gvfs-mtp bluez bluez-utils blueman network-manager-applet flameshot gtk-engine-murrine playerctl
 > - font: noto-fonts-emoji otf-font-awesome ttf-droid ttf-fira-code ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-cascadia-code-nerd ttf-cascadia-mono-nerd ttf-fira-mono ttf-fira-sans ttf-firacode-nerd ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono
 ttf-meslo-nerd
 > - Extract Flat-Remix-Blue-Dark.zip to ~/.icons
