@@ -30,7 +30,9 @@ ttf-meslo-nerd
 > #### Optional
 > - fcitx5 fcitx5-qt fcitx5-gtk fcitx5-configtool fcitx5-unikey (if you don't use fcitx5, please remove the <em>exec fcitx5</em> in config)
 > - polkit-kde-agent (I use kde-polkit for authentication)
-> 
+> - EFISTUB: efibootmgr --create --disk <strong>/dev/nvme0n1</strong> --part <strong>1</strong> --label "Arch Linux" --loader /vmlinuz-linux --unicode 'root=UUID=<strong>b90413d66-2e64-48c4-967b-831270e3d425</strong> rw loglevel=3 quiet nvidia-drm.modeset=1 nvidia_drm.fbdev=1 initrd=\initramfs-linux.img'
+> replace the bold part with your details from <em>blkid, lsblk</em>
+>
 > #### After the installation of the dependencies and what you need.
 > Just copy .wallpaper to your home directory and all folder in config_files to your ~/.config
 >
