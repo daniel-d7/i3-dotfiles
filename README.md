@@ -47,4 +47,5 @@ ttf-meslo-nerd
 1. **parazeeknova** for his dotfile, which inspired me and most resource is borrowed from his repos at [link](https://github.com/parazeeknova/dotfiles/tree/main)
 2. Thanks **JaKooLit** for his [install scripts](https://github.com/JaKooLit/Arch-Hyprland), which help me much from the start of Arch
 3. Thanks **mylinuxforwork** for his [dotfiles](https://github.com/mylinuxforwork/dotfiles) and [hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter)
+4. Rofi-power-menu from **adi1090x** [rofi-power-menu](https://github.com/adi1090x/rofi/tree/master)
 ## And many other guys, I love you all for keeping your hard work.
