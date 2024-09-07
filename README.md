@@ -15,7 +15,7 @@ I won't hope that anyone will use these files, but I am very happy if it help yo
 Start with a minimal installation of Arch Linux.
 Git, vim/nano (any text editor) is compulsory.
 
-### Dependency
+### Dependencies
 > #### Install yay-git with:
 > git clone https://aur.archlinux.git/yay-git.git && cd yay-git && makepkg -si
 > #### Packages I used, modified as your usage. Install with yay.
